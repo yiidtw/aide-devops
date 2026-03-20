@@ -1,5 +1,5 @@
 [agent]
-name = "infra"
+name = "devops"
 version = "0.1.0"
 description = "Infrastructure agent — DNS, deploy, auth, monitoring across all projects"
 author = "ydwu"
@@ -40,7 +40,7 @@ usage = "status"
 dir = "knowledge/"
 
 [expose.github]
-repo = "yiidtw/aide-infra"
+repo = "yiidtw/aide-devops"
 
 [env]
 required = ["CLOUDFLARE_API_TOKEN"]

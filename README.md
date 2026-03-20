@@ -1,3 +1,5 @@
-# infra.yiidtw
+# aide-devops
 
-See [persona.md](persona.md) for agent personality and rules.
+See [occupation/persona.md](occupation/persona.md)
+
+Powered by [aide.sh](https://aide.sh) — Deploy AI agents, just like Docker.

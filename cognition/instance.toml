@@ -1,8 +1,8 @@
-name = "infra.yiidtw"
-agent_type = "infra"
+name = "devops.yiidtw"
+agent_type = "devops"
 created_at = "2026-03-18T18:59:40.769210Z"
 email = "infra@aide.sh"
 role = "Infrastructure agent — DNS, deploy, auth, monitoring across all projects"
 domains = []
 cron = []
-github_repo = "yiidtw/aide-infra"
+github_repo = "yiidtw/aide-devops"
